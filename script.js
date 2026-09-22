@@ -5,3 +5,7 @@ function studentModule() {
 function facultyModule() {
   console.log("Faculty module functionality");
 }
+
+function courseModule() {
+  console.log("Course module functionality");
+}
